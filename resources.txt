@@ -1,0 +1,18 @@
+csv reader link
+
+https://realpython.com/python-csv/
+
+Pandas list , getting values, row
+
+https://stackoverflow.com/questions/22341271/get-list-from-pandas-dataframe-column-or-row
+https://stackoverflow.com/questions/26047209/what-is-the-difference-between-a-pandas-series-and-a-single-column-dataframe
+https://stackoverflow.com/questions/3496518/using-a-dictionary-to-count-the-items-in-a-list
+https://stackoverflow.com/questions/27659153/how-to-group-similar-items-in-a-list
+https://www.stackvidhya.com/get-value-of-cell-from-a-pandas-dataframe/
+
+
+
+SEABORN
+https://www.statology.org/seaborn-pie-chart/
+https://developers.google.com/edu/python/regular-expressions
+https://datavizpyr.com/sort-bars-in-barplot-using-seaborn-in-python/
